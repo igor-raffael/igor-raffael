@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/igor-raffael/igor-raffael/blob/main/assets/art.png" width="85">
+<img align="left" src="https://github.com/igor-raffael/igor-raffael/blob/main/assets/art.png" width="84">
 
 ### Greetings!
 
