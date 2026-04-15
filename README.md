@@ -9,6 +9,6 @@ I'm **Igor Raffael**, a mathematics enthusiast with a deep passion for Computer 
 #
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,clojure,haskell,mysql,git,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,cpp,clojure,haskell,mysql,git,linux,vim,figma" />
   </a>
 </p>
